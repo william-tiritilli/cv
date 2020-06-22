@@ -1,0 +1,77 @@
+/* this rule will apply to all the page-body*/
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Courier New', serif;
+}
+
+.data {
+  text-decoration: underline;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
+  background-color: white;
+}
+
+h1 {
+  margin-top: 0px;
+  padding-top: 20px;
+}
+
+h2 {
+  margin-top: 0px;
+  padding-top: 20px;
+}
+
+h3 {
+  margin-top: 0px;
+  padding-top: 20px;
+}
+
+.top-container {
+  margin: 0px;
+  background-color: white;
+}
+
+.middle-container {
+  margin: 0px;
+  background-color: #eeeeee;
+  height: 300px;
+  /*width: 1500px;*/
+}
+
+.middle-container2 {
+  margin: 0px; /*Don't forget to change the browser parameter*/
+  background-color: white;
+  height: 300px;
+  /*width: 1500px;*/
+}
+
+.middle-container3 {
+  margin: 0px;
+  background-color: #dedede;
+  height: 300px;
+  /*width: 1500px;*/
+}
+
+.bottom-container {
+  margin: 0px;
+  background-color: black;
+  color: white;
+  height: 100px;
+  /*width: 1500px;*/
+}
+
+.contact {
+  margin: 0px;
+  background-color: black;
+  color: white;
+  height: 50px;
+  /*width: 1500px;*/
+}
