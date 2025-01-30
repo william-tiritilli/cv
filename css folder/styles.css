@@ -75,3 +75,18 @@ h3 {
   height: 50px;
   /*width: 1500px;*/
 }
+
+.linkedin-logo {
+  width: 30px; /* Adjust size as needed */
+  height: auto;
+}
+
+.github-logo {
+  width: 30px; /* Adjust size as needed */
+  height: auto;
+}
+
+.mail-logo {
+  width: 30px; /* Adjust size as needed */
+  height: auto;
+}
